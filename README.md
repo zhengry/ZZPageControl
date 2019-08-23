@@ -1,2 +1,5 @@
 # ZZPageControl
 自定义图片的PageControl
+
+基本设置：需要设置当前index和非当前index的图片及大小，并设置图片间隙。
+使用时同UIPageControl一样，给numOfPages赋值，并设置currentIndex即可。
